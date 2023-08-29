@@ -27,3 +27,4 @@ ORDER BY COUNT(conversions) desc;
 
 
 --	In your opinion, which campaign was the most efficient, and why?
+-- Campaign 5 was the most efficient because it brought it the highest revenue with a high number of clicks and the least amount of impressions compared to the other campaigns. It also cost the least, bringing in more profi for the company. 
